@@ -37,6 +37,6 @@ A fully  voice assistant powered by local machine learning models for speech-to-
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/offline-voice-ai.git
-cd offline-voice-ai
+git clone https://github.com/SubodhYadao/voice-ai.git
+cd voice-ai
 
